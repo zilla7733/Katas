@@ -1,0 +1,8 @@
+C:\Projects\Katas\2048Kata\2048Kata Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Katas\2048Kata\2048Kata Tests\bin\Debug\2048Kata Tests.dll
+C:\Projects\Katas\2048Kata\2048Kata Tests\bin\Debug\2048Kata Tests.pdb
+C:\Projects\Katas\2048Kata\2048Kata Tests\bin\Debug\2048Kata.dll
+C:\Projects\Katas\2048Kata\2048Kata Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Katas\2048Kata\2048Kata Tests\bin\Debug\2048Kata.pdb
+C:\Projects\Katas\2048Kata\2048Kata Tests\obj\Debug\2048Kata Tests.dll
+C:\Projects\Katas\2048Kata\2048Kata Tests\obj\Debug\2048Kata Tests.pdb

@@ -1,0 +1,5 @@
+C:\Projects\Katas\2048Kata\2048Kata\bin\Debug\2048Kata.dll
+C:\Projects\Katas\2048Kata\2048Kata\bin\Debug\2048Kata.pdb
+C:\Projects\Katas\2048Kata\2048Kata\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Katas\2048Kata\2048Kata\obj\Debug\2048Kata.dll
+C:\Projects\Katas\2048Kata\2048Kata\obj\Debug\2048Kata.pdb

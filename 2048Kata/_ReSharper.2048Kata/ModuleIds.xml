@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="48D5EB43-8645-494A-9EB0-C9972351F29C" ModuleId="2048Kata" />
+  <Module PersistentId="C55FA390-8990-4E95-90B5-BF4EFC353003" ModuleId="2048Kata Tests" />
+</Modules>
